@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">GoogleMapsTest</string>
     <string name="title_activity_maps">Map</string>
+
+    <string-array name="numbers">
+        <item>One</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+    </string-array>
 </resources>
